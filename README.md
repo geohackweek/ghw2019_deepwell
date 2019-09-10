@@ -41,12 +41,24 @@ If you already have some data to explore, briefly describe it here (size, format
 [More relevant datasets](https://docs.google.com/spreadsheets/d/1NhC1WyYVj2K4N-JpoYQk_7W0ZAbDInjmiYirHUkBaOE/edit?usp=sharing)
 
 ## Specific Questions:
-TODO
+
+1. How well does simple interpolation/kriging of groundwater level measurements compare to a GRACE baseline?
+
+2. Beyond Kriging, how can we use ML to incorporate supplementary datasets to produce an advanced interpolation data product?
+
+3. What is the relationship between various types of agricultural land use and ground water use? How can we visualize this?
 
 ## Existing Methods:
-TODO
 
-## Proposed methodss/tools
+Spatial Interpolation, Kriging, Gaussian Processes
+- sklearn.gaussian_process.GaussianProcessRegressor
+
+Markov Random Field, Conditional Random Field
+
+Super Resolution with GANs
+
+
+## Proposed methods/tools
 TODO
 
 ## Background Reading
