@@ -12,7 +12,7 @@ Cari Breton: Geology and Economics Domain Expert
 
 Shirley Leung: Water Systems Domain Expert
 
-Rachael Haggen: Soil Science Domain Expert
+Rachael Haggen: Soil Science Domain Expert, Wine Enthusiast
 
 Tommy Greene: Remote Sensing, Google Earth Engine Specialist
 
